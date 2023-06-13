@@ -23,7 +23,7 @@ In both cases, a path to the input file must be provided. Additionally, a path f
 Here are some examples:
 
 ```
-hulu /path/to/input/file.md /path/to/output/file.md
+hulu /path/to/input/file.md /path/to/output/
 ```
 
 This will parse the LaTeX code in the input file and output the results to a new file at `/path/to/output/file.md`.
